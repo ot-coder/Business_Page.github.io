@@ -30,7 +30,7 @@ body {
 
 .wrapper input-box {
     width: 100%;
-    height: 50%;
+    height: 50px;
     background-color: salmon;
     margin: 30px;
 }
